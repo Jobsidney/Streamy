@@ -1,6 +1,8 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](https://streamy-dlfz.onrender.com/)
+
+##WAIT FOR THE APP TO LOAD
 
 Highlights:
 
